@@ -4,3 +4,5 @@
 #### This is H4 test
 ##### This is H5 test
 ###### This is H6 test
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

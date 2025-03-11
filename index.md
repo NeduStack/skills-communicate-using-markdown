@@ -16,3 +16,14 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# Task List
+- [x] Clone Git Repo
+- [x] Cd into the Repo
+- [ ] Edit changes in the code
+- [ ] Git add
+- [ ] Git Commit
+- [ ] Git checkout branch
+- [ ] Git git push
+- [ ] Create Pull Request
+- [ ] Compare and Merger 
